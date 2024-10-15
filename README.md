@@ -45,3 +45,17 @@
 </body>
 </html>
 ```
+
+```js
+            if(co === 'YES'){
+                console.log('Kliknąłeś TAK');
+            } else {
+                console.log('Kliknąłeś NIE');
+            }
+
+//ternary operator
+
+            let what = co === 'YES' ? 'TAK' : 'NIE';
+
+            console.log('kliknąłeś', what);
+```
