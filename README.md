@@ -81,3 +81,25 @@
             console.log(tekst);
         }
 ```
+```js
+    <textarea id="area"></textarea>
+
+    <div id="output">0 słów</div>
+
+    <script>       
+        const output = document.getElementById('output');
+        const myarea = document.getElementById('area');
+
+        myarea.addEventListener('input',mojaFunkcja)
+
+        function mojaFunkcja(){
+            const tekst = myarea.value;
+
+            const array = tekst.split(' ');
+
+            let counter = array.length;
+
+            output.innerText = counter + ' słów';
+        }
+    </script>
+```
