@@ -95,7 +95,7 @@
         function mojaFunkcja(){
             const tekst = myarea.value;
 
-            const array = tekst.split(' ');
+            const textArray = tekst.split(' ');
 
             const counter = array.length;
 
