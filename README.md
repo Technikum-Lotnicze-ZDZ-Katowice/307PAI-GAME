@@ -97,7 +97,7 @@
 
             const array = tekst.split(' ');
 
-            let counter = array.length;
+            const counter = array.length;
 
             output.innerText = counter + ' słów';
         }
