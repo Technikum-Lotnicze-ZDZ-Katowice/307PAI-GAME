@@ -59,3 +59,25 @@
 
             console.log('kliknąłeś', what);
 ```
+
+
+```js
+        const mojaTablica = [
+            'Ala',
+            'ma',
+            'kota'
+        ]
+        function mojaFunkcja(){
+            let = tekst = '';
+            for(let i=0;i < mojaTablica.length;i++){
+                tekst += mojaTablica[i];
+                if(i < mojaTablica.length - 1){
+                    tekst += ' ';
+                } else {
+                    tekst += '!';
+                }
+            }
+
+            console.log(tekst);
+        }
+```
