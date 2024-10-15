@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <button onClick="mojaFunkcja">Click</button>
+    <button onClick="mojaFunkcja()">Click</button>
 
     <script>
         function mojaFunkcja(){
