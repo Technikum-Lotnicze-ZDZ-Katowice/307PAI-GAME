@@ -103,3 +103,8 @@
         }
     </script>
 ```
+
+
+### INFO
+
+https://miroslawzelent.pl/kurs-javascript/przetwarzanie-lancuchow-gra-wisielec/
