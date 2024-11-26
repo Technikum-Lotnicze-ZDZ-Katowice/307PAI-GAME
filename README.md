@@ -103,6 +103,12 @@
         }
     </script>
 ```
+```js
+document.create('div')
+
+newDiv.classList.add('box');
+```
+
 ### ZADANIE
 przygotuj aplikację w któ©ej klikając na button dodajemy kolejne cegiełki do kmru.
 - cegły mają losową szerokość,
