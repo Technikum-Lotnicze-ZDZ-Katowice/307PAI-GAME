@@ -103,7 +103,11 @@
         }
     </script>
 ```
-
+### ZADANIE
+przygotuj aplikację w któ©ej klikając na button dodajemy kolejne cegiełki do kmru.
+- cegły mają losową szerokość,
+- cegiełki układają się od spodu do góry (tak jak w rzeczywistości);
+- można dopracować wygląd cegieł (gradient, tekstura, odstępy, nierówna powierzchnia) 
 
 ### INFO
 
